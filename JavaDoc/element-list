@@ -1,0 +1,9 @@
+com.example.ticketing_System
+com.example.ticketing_System.controller
+com.example.ticketing_System.dto
+com.example.ticketing_System.entity
+com.example.ticketing_System.exception
+com.example.ticketing_System.mapper
+com.example.ticketing_System.repository
+com.example.ticketing_System.service
+com.example.ticketing_System.service.impl
