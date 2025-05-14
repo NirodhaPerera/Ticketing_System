@@ -26,6 +26,7 @@ MySQL integration for user, ticket, and transaction data
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ticketing_System_CW
+
 This is a terminal-based Java project that demonstrates the Producer-Consumer pattern using multithreading with the Runnable interface.
 
 🧵 How It Works
